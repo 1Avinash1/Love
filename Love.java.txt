@@ -1,0 +1,5 @@
+class Love{
+  public static void main(String arg[]){
+  System.out.println("Love is injoriorus for Helth");
+ } 
+  }
